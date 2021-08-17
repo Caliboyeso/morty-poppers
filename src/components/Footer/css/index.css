@@ -1,0 +1,16 @@
+/*  */
+.Footer-container {
+    background-color: black;
+    height: 100px;
+    color: green;
+    text-align: center;
+    border-top: 5px solid grey;
+    bottom: 0;
+    width: 100%;
+}
+
+/*  */
+#Footer-title {
+    margin-top: 30px;
+    font-family: 'Yeon Sung', cursive;
+}
